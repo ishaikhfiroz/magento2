@@ -1,1 +1,0 @@
-/home/firoz/magento2/lib/web/jquery/spectrum/spectrum.js
