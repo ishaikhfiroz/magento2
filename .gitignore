@@ -18,6 +18,6 @@ phpserver/*
 SECURITY.md
 setup/*
 .user.ini
-var/*
+var/cache/*
 vendor/*
 admin
