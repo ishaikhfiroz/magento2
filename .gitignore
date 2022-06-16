@@ -4,7 +4,6 @@ CHANGELOG.md
 COPYING.txt
 dev/*
 .editorconfig
-generated/*
 grunt-config.json.sample
 Gruntfile.js.sample
 .htaccess
@@ -22,4 +21,4 @@ setup/*
 .user.ini
 var/*
 vendor/*
-app/*
+admin
