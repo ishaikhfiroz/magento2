@@ -969,3 +969,4 @@
 [2022-06-16 09:35:39] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_report_reviews was processed [] []
 [2022-06-16 09:35:39] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_reviews_external was processed [] []
 [2022-06-16 09:35:39] main.INFO: Add of item with id Yotpo_Yotpo::yotpo_analytics_external was processed [] []
+[2022-06-16 13:08:22] main.DEBUG: cache_invalidate:  {"method":"POST","url":"http://magento.local/admin_1ifglb/admin/index/index/key/6e8cb9e282568aabffdc86dd862d116d6876c970efe9ebdfa2c63b3a4f80c539/","invalidateInfo":{"tags":["BACKEND_MAINMENU"],"mode":"matchingAnyTag"}} []
