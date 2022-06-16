@@ -1,0 +1,1 @@
+/home/firoz/magento2/lib/web/mage/smart-keyboard-handler.js
