@@ -1,0 +1,1 @@
+/home/firoz/magento2/vendor/magento/module-rule/view/adminhtml/web/rules.js
